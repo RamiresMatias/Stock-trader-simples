@@ -1,0 +1,7 @@
+- Projeto stock-trader com Vue js e Firebase. 
+- Construído a partir do desafio do curso de Vue Js da Udemy, com propósito de reforçar os conceito de:
+    - Gerenciamento de estado com Vuex;
+    - Requisições com axios;
+    - Construção de interface com Vuetify, baseado em Materials;
+    - Operações e regras com actions e mutations;
+    - Organização estrutural dos arquivos .js em módulos

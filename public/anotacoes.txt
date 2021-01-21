@@ -1,0 +1,15 @@
+- fill-height : Propriedade para preencher toda a altura.
+
+Propriedades grids do vuetify : xs12 md6 lg4 - {
+    xs12 - Se for dispositivo pequeno irá ocupar 12 colunas,
+    md6 - Se for dispositivo médio irá ocupar 6 colunas,
+    lg - Se for dispositivo grande irá ocupar 4 colunas
+}
+
+v-layout(Propriedade - row wrap) : essa propriedade define que meu componente representará uma linha e que poderá quebrar, definindo outra propriedade o wrap
+
+!Number.isInteger(quantity) - Essa propriedade faz uma validação se o número não é inteiro, se não for ele aplica uma regra
+
+dispatch - Para chamar uma action, você chama o dispatch, this.$store.dispatch('nomeDaAction')
+
+headline - ese atributo define textos um pouco maiores na formatação
